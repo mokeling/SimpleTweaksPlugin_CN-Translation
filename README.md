@@ -1,0 +1,1 @@
+# SimpleTweaksPlugin_CN-Translation
