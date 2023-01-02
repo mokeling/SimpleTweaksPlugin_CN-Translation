@@ -4,4 +4,4 @@
 
 然后汉化文件下载完后丢进\Roaming\pluginConfigs\SimpleTweaksPlugin\loc\zh-CN
 
-Crowdin上作者四个月了没更新了（
+Crowdin上作者好久没更新了（
